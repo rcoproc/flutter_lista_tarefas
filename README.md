@@ -4,7 +4,7 @@ A new Flutter application.
 
 | Tela Principal  |
 |---|
-| ![]() |
+| ![](https://github.com/rcoproc/flutter_lista_tarefas/blob/master/images/tela_lista_tarefas.png) |
 
 ## Getting Started
 
